@@ -1,0 +1,4 @@
+@echo off
+set HTTPS_PROXY=http://127.0.0.1:1080
+set NO_AUTH_BOTO_CONFIG=%dp0.boto
+set DEPOT_TOOLS_WIN_TOOLCHAIN=0
